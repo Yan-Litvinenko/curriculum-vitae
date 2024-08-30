@@ -57,6 +57,6 @@ const undefined = getUndefined();
 
 ## CONTACTS
 
-- [Telegram](https://t.me/xDarth_Vaderx)
 - [Personal Website](https://pixelpulse.by)
+- [Telegram](https://t.me/xDarth_Vaderx)
 - +375-29-890-79-42
