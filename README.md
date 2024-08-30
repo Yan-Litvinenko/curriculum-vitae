@@ -1,7 +1,6 @@
-<h1 style=" font-weight: 900;text-transform: uppercase; font-size: 52px; letter-spacing: 8px">Yan<br>
-<span style="">Litvinenko</span><br>
-<span style="font-size: 24px; letter-spacing: 1px; position: relative; top: -15px ; font-weight: 500;">frontend developer</span>
-</h1>
+# YAN LITVINENKO
+
+### FRONTEND DEVELOPER
 
 ---
 
@@ -61,5 +60,5 @@ const undefined = getUndefined();
 ## CONTACTS
 
 - [Telegram](https://t.me/xDarth_Vaderx)
-- [Personal Website](https://pixelpulse.by/)
+- [Personal Website](https://pixelpulse.by)
 - +375-29-890-79-42
